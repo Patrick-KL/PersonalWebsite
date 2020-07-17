@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css"/>
+
+        <title>Patrick's personal site</title>
+    </head>
+    <body>   
+        <table cellspacing = "20">
+            <tr>
+                <td>
+                    <img src="images/Patrick.png" alt="A picture of me" width="200" height="200">
+                </td>
+                <td>
+                    <h1>Patrick Klaassen</h1>
+                    <p><em>Bachelor of Computing Science and Master student at <strong><a href="https://www.uu.nl/en" target="blank">Utrecht University</a></strong>.</em></p>
+                    <p>I am a super cool dude that has the coolest girlfriend ever.</p>
+                </td>
+            </tr>
+        </table>                 
+        <hr>
+        <div id="after_submit"></div>
+        <form id="contact_form" action="mailto:superpatric7@hotmail.com" method="POST" enctype="multipart/form-data">
+            <div class="row">
+                <label class="required" for="name">Your name:</label><br />
+                <input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+                <span id="name_validation" class="error_message"></span>
+            </div>
+            <div class="row">
+                <label class="required" for="email">Your email:</label><br />
+                <input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+                <span id="email_validation" class="error_message"></span>
+            </div>
+            <div class="row">
+                <label class="required" for="message">Your message:</label><br />
+                <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+                <span id="message_validation" class="error_message"></span>
+            </div>    
+            <input id="submit_button" type="submit" value="Send email" />
+        </form>
+        <hr>
+        <a href="index.html">Go back</a>
+    </body>
+</html>
