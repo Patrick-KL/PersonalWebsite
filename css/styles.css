@@ -5,13 +5,10 @@ body {
     color: #5a5a5a;
   }
   
-h4,h5,h6{
+h5,h6{
     margin-bottom:0;
 } 
-/*
-h6{
-    font-weight:;
-}*/
+
 footer {
     height: 70px;
     background-color: #F2E7D1;
