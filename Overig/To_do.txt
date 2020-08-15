@@ -1,5 +1,5 @@
 To do:
-- styling text: headers margin, h6, contact page
+- styling text: headers margin, contact page
 - styling tables (prijzen)
 - styling colours
   - Buttons
