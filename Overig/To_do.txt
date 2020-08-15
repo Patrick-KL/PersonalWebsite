@@ -1,5 +1,6 @@
 To do:
-- styling text: headers margin, contact page
+- styling the faq balken
 - styling colours
   - Buttons
-- favicon
+- decide about the contact page
+-links linken
