@@ -43,12 +43,30 @@ footer a:hover
 }
 
 .btn-custom {
-    
+    background-color: #A63962;
+    color:white;
 }
 
 
 
+/* Cards on FAQ ----------------------- */
+.card{
+    border:0;
+    margin:15px;
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0;
+    padding-right: 0;
+}
 
+.card-header{
+    background-color: #A63962;
+}
+
+.card .btn-link
+{
+    color:white;
+}
 
 
 /* Nav-bar changes ----------------------- */
