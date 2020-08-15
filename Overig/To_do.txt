@@ -2,6 +2,4 @@ To do:
 - styling text
 - styling colours
 - adding images, information page, team page, banner
-- figuring out the information page
-- add contact form
-- Home page, filling in the little thingies
+- add functionality to contact form
