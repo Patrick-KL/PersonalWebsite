@@ -15,9 +15,6 @@ body {
 /* 3 collumns next to each other
 -------------------------------------------------- */
 
-.marketing {
-    margin-top: 3rem;
-}
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
