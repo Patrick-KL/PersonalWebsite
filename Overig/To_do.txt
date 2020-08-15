@@ -4,7 +4,6 @@ To do:
 - styling colours
   - Buttons
 - favicon
-- adding images, information page, team page, 
 - add dummy calendar
 - add functionality to calendar
 - add functionality to contact form
