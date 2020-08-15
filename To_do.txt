@@ -4,3 +4,4 @@ To do:
 - adding images, information page, team page, banner
 - figuring out the information page
 - add contact form
+- Home page, filling in the little thingies
