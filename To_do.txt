@@ -1,0 +1,6 @@
+To do:
+- styling text
+- styling colours
+- adding images, information page, team page, banner
+- figuring out the information page
+- add contact form
