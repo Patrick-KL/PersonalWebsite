@@ -122,3 +122,18 @@ margin-left: .75rem;
     letter-spacing: -.05rem;
 }
   
+/* Images
+------------------------- */
+
+.img-informatie-shildklier
+{
+    float: right;
+    margin-right: 50px
+}
+
+.img-informatie-hartworm
+{
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+}
