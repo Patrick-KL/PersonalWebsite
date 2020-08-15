@@ -15,7 +15,6 @@ footer {
 }
   
   
-  
   /* Cards on home page
   -------------------------------------------------- */
   
@@ -110,4 +109,10 @@ footer {
 .jumbotron p {
     font-size: 1.5rem;
     font-weight: normal;
+}
+
+/* Content changes ----------------------- */
+
+.content { 
+    margin-top: 3rem;
 }

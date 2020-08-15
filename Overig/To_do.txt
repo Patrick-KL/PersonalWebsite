@@ -1,6 +1,8 @@
 To do:
 - styling text
 - styling colours
+- favicon
 - adding images, information page, team page, banner
-- footer sticky maken
+- add dummy calendar
+- add functionality to calendar
 - add functionality to contact form
