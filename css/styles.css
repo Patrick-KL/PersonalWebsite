@@ -1,7 +1,16 @@
 /* Nav-bar changes ----------------------- */
 
-nav {
-    background-color: #A63962;
+.navbar-custom { 
+    background-color: #A63962; 
+} 
+
+.navbar-custom .navbar-toggler {
+    color: rgba(0, 0, 0, 0.5);
+    border-color: rgba(0, 0, 0, 0.3);
+}
+
+.navbar-custom .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
 .nav-item {
@@ -22,11 +31,28 @@ nav {
 }
 
 /* Banner changes ----------------------- */
-
 .jumbotron {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 0;
     background-color: #F2E7D1;
     color: #A63962;
     font-weight: bold;
+}
+
+@media (min-width: 768px) {
+    .jumbotron {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+}
+
+.jumbotron p:last-child {
+    margin-bottom: 0;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
 }
 
 .jumbotron p {
