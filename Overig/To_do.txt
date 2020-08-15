@@ -3,3 +3,4 @@ To do:
 - styling colours
 - adding images, information page, team page, banner
 - add functionality to contact form
+- footer sticky maken
