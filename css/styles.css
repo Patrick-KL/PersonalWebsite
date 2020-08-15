@@ -134,3 +134,28 @@ margin-left: .75rem;
     margin-right:auto;
     display: block;
 }
+
+/* Tables
+------------------------- */
+table{
+    margin-top: 20px;
+    margin-top: 40px;
+    width: 60%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+tr {
+    border-bottom: 1px solid #ccc;
+}
+
+th:first-child{
+    width: 70%;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
