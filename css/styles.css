@@ -6,6 +6,13 @@ body {
     /*padding bottom will ruin the footer*/
   }
   
+h4,h5,h6{
+    margin-bottom:0;
+} 
+/*
+h6{
+    font-weight:;
+}*/
 footer {
     height: 70px;
     background-color: #F2E7D1;
@@ -16,6 +23,7 @@ footer {
   
   .content { 
     margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 
