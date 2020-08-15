@@ -1,6 +1,1 @@
 To do:
-- styling the faq balken
-- styling colours
-  - Buttons
-- decide about the contact page
--links linken
