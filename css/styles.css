@@ -11,17 +11,39 @@ h5,h6{
 
 footer {
     height: 56px;
-    background-color: #F2E7D1;
+    background-color: #A63962;
+    color: white;
     padding-bottom: 0;
     width: 100%;
     overflow: hidden;
 }
-  
+footer a
+{
+    color: #e2b55c;
+}
+
+footer a:hover
+{
+    color: #b47a05;
+}
+.contact{
+    
+    background-color: #F2E7D1;
+    height:175px;
+    width:100%;
+    margin-bottom: 0;
+    
+}
+
   .content { 
+      
     margin-top: 3rem;
     margin-bottom: 3rem;
-    min-height: calc(100vh - 388px);
+    min-height: calc(100vh - 563px);
 }
+
+
+
 
 
 /* Nav-bar changes ----------------------- */
