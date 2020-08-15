@@ -1,7 +1,6 @@
 To do:
-- styling text: headers margin, contact page
+- styling the faq balken
 - styling colours
   - Buttons
-- favicon
-- add dummy calendar
-- add functionality to calendar
+- decide about the contact page
+-links linken
