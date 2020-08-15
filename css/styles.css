@@ -140,9 +140,18 @@ margin-left: .75rem;
 table{
     margin-top: 20px;
     margin-top: 40px;
-    width: 60%;
+    width: 70%;
 }
-
+@media only screen and (max-width: 930px) {
+    table{
+        width: 80%;
+    }
+  }
+  @media only screen and (max-width: 690px) {
+    table{
+        width: 100%;
+    }
+  }
 th, td {
     padding: 10px;
     text-align: left;
