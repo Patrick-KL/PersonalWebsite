@@ -1,0 +1,9 @@
+Primaire kleuren voor de website
+
+		r/g/b		hex	hue/sat/lum
+Paars:		166/57/98	A63962	225/117/105
+beige:		242/231/209	F2E7D1	27/134/212	
+wit:		255/255/255	FFFFFF	160/0/240
+lichtgrijs:	249/249/249	F9F9F9	160/0/234
+grijs:		221/221/221	DDDDDD	160/0/208
+zwart(grijs):	62/61/59	3E3D3B	27/6/57
