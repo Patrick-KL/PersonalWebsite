@@ -4,3 +4,4 @@ To do:
 - adding images, information page, team page, banner
 - footer sticky maken
 - add functionality to contact form
+- add afspraak-maak-calender-dingetje
