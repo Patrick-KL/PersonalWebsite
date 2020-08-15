@@ -3,7 +3,6 @@
 body {
     padding-top: 3rem;
     color: #5a5a5a;
-    /*padding bottom will ruin the footer*/
   }
   
 h5,h6{
@@ -21,6 +20,7 @@ footer {
   .content { 
     margin-top: 3rem;
     margin-bottom: 3rem;
+    min-height: calc(100vh - 402px);
 }
 
 
