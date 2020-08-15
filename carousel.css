@@ -38,10 +38,9 @@ body {
 
 
 
-/* MARKETING CONTENT
+/* 3 collumns next to each other
 -------------------------------------------------- */
 
-/* Center align the text within the three columns below the carousel */
 .marketing {
     margin-top: 3rem;
 }
@@ -72,13 +71,9 @@ body {
   letter-spacing: -.05rem;
 }
 
-.nav-item {
-    margin-left: 0.3rem;
-    margin-right: 0.3rem;
-}
 
 
-/* Random shite
+/* Nav-bar changes
     ----------------------- */
 .activated {
     font-weight:bold;
@@ -86,18 +81,9 @@ body {
 
 }
 
-.bd-placeholder-img {
-    font-size: 1.125rem;
-    text-anchor: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
+.nav-item {
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
 }
 
-@media (min-width: 768px) {
-    .bd-placeholder-img-lg {
-        font-size: 3.5rem;
-    }
-}
 
