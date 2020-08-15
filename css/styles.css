@@ -1,3 +1,51 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+  }
+  
+  .footer {
+    background-color: #f5f5f5;
+  }
+  
+  
+  
+  /* Cards on home page
+  -------------------------------------------------- */
+  
+  .cards-home {
+      margin-top: 3rem;
+  }
+  .cards-home .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  .cards-home h2 {
+    font-weight: 400;
+  }
+  .cards-home .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+  
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+    margin: 5rem 0; 
+  }
+  
+ 
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+}
+  
+  
+
 /* Nav-bar changes ----------------------- */
 
 .navbar-custom { 
