@@ -4,3 +4,5 @@ To do:
 - adding images, information page, team page, banner
 - add functionality to contact form
 - footer sticky maken
+- Fix symbol navbar
+- fix jumbotron in de css files
