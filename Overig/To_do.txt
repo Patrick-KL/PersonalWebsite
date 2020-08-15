@@ -5,4 +5,3 @@ To do:
 - favicon
 - add dummy calendar
 - add functionality to calendar
-- add functionality to contact form
