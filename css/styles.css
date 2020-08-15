@@ -1,0 +1,35 @@
+/* Nav-bar changes ----------------------- */
+
+nav {
+    background-color: #A63962;
+}
+
+.nav-item {
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #b47a05;
+}
+
+.activated {   
+    color: #e2b55c;
+}
+
+/* Banner changes ----------------------- */
+
+.jumbotron {
+    background-color: #F2E7D1;
+    color: #A63962;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 1.5rem;
+    font-weight: normal;
+}

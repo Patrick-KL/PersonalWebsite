@@ -19,17 +19,13 @@ body {
 
 @media (min-width: 768px) {
     .jumbotron {
-        padding-top: 6rem;
-        padding-bottom: 6rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
     }
 }
 
 .jumbotron p:last-child {
     margin-bottom: 0;
-}
-
-.jumbotron h1 {
-    font-weight: 300;
 }
 
 .jumbotron .container {
@@ -73,17 +69,5 @@ body {
 
 
 
-/* Nav-bar changes
-    ----------------------- */
-.activated {
-    font-weight:bold;
-    color: white;
-
-}
-
-.nav-item {
-    margin-left: 0.3rem;
-    margin-right: 0.3rem;
-}
 
 
