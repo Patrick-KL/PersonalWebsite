@@ -1,9 +1,11 @@
 To do:
-- styling text
+- styling text: headers margin, h6, contact page
+- styling tables (prijzen)
 - styling colours
+  - Buttons
 - favicon
 - adding images, information page, team page, banner
+- body needs minimum length
 - add dummy calendar
 - add functionality to calendar
 - add functionality to contact form
-- add afspraak-maak-calender-dingetje
