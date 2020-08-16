@@ -32,10 +32,9 @@ footer a:hover
     height:175px;
     width:100%;
     margin-bottom: 0;
-    
 }
 
-  .content { 
+.content { 
       
     margin-top: 3rem;
     margin-bottom: 3rem;
@@ -46,8 +45,6 @@ footer a:hover
     background-color: #A63962;
     color:white;
 }
-
-
 
 /* Cards on FAQ ----------------------- */
 .card{
@@ -113,24 +110,28 @@ footer a:hover
     font-weight: bold;
 }
 
-@media (min-width: 768px) {
-    .jumbotron {
-        padding-top: 3rem;
-        padding-bottom: 3rem;
-    }
-}
-
 .jumbotron p:last-child {
     margin-bottom: 0;
 }
 
-.jumbotron .container {
-    max-width: 40rem;
-}
+
 
 .jumbotron p {
     font-size: 1.5rem;
     font-weight: normal;
+}
+
+.header {
+    max-width: 100%;
+}
+
+.bannertitle {
+    margin: auto;
+}
+
+.bannerimage{
+    top: 55px;
+    right: 200px;
 }
 
 /* Cards on home page
