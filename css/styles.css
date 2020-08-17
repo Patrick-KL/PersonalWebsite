@@ -1,14 +1,38 @@
-/* GLOBAL STYLES
+/* Global styles
 -------------------------------------------------- */
+
+
 body {
     padding-top: 3rem;
     color: #5a5a5a;
-  }
-  
+}
+
+.content {   
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    min-height: calc(100vh - 563px);
+}
+
 h5,h6{
     margin-bottom:0;
 } 
 
+.btn-custom {
+    background-color: #A63962;
+    color:white;
+}
+
+/* The style of the contact banner. */
+.contact{ 
+    
+    background-color: #F2E7D1;
+    height:175px;
+    width:100%;
+    margin-bottom: 0;
+    
+}
+
+/* The style of the footer. */
 footer {
     height: 56px;
     background-color: #A63962;
@@ -17,6 +41,7 @@ footer {
     width: 100%;
     overflow: hidden;
 }
+
 footer a
 {
     color: #e2b55c;
@@ -26,31 +51,9 @@ footer a:hover
 {
     color: #b47a05;
 }
-.contact{
-    
-    background-color: #F2E7D1;
-    height:175px;
-    width:100%;
-    margin-bottom: 0;
-    
-}
-
-  .content { 
-      
-    margin-top: 3rem;
-    margin-bottom: 3rem;
-    min-height: calc(100vh - 563px);
-}
-
-.btn-custom {
-    background-color: #A63962;
-    color:white;
-}
-
-
 
 /* Cards on FAQ ----------------------- */
-.card{
+.card-FAQ{
     border:0;
     margin:15px;
     margin-left: 0;
@@ -59,11 +62,12 @@ footer a:hover
     padding-right: 0;
 }
 
-.card-header{
+.card-FAQ-header{
     background-color: #A63962;
+    border-radius: 15px;
 }
 
-.card .btn-link
+.card-FAQ .btn-link
 {
     color:white;
 }
@@ -102,9 +106,8 @@ footer a:hover
 }
 
 
-
 /* Banner changes ----------------------- */
-.jumbotron {
+.banner {
     padding-top: 2rem;
     padding-bottom: 2rem;
     margin-bottom: 0;
@@ -114,21 +117,21 @@ footer a:hover
 }
 
 @media (min-width: 768px) {
-    .jumbotron {
+    .banner {
         padding-top: 3rem;
         padding-bottom: 3rem;
     }
 }
 
-.jumbotron p:last-child {
+.banner p:last-child {
     margin-bottom: 0;
 }
 
-.jumbotron .container {
+.banner .container {
     max-width: 40rem;
 }
 
-.jumbotron p {
+.banner p {
     font-size: 1.5rem;
     font-weight: normal;
 }
@@ -154,11 +157,11 @@ margin-left: .75rem;
 /* Featurettes about us
 ------------------------- */
 
-.featurette-divider {
+.featurette-divider-about-us {
     margin: 2.5rem 0; 
   }
   
-.featurette-heading {
+.featurette-heading-about-us {
     font-weight: 300;
     line-height: 1;
     letter-spacing: -.05rem;
@@ -182,34 +185,34 @@ margin-left: .75rem;
 
 /* Tables
 ------------------------- */
-table{
+.table-prijzen{
     margin-top: 20px;
     margin-top: 40px;
     width: 70%;
 }
 @media only screen and (max-width: 930px) {
-    table{
+    .table-prijzen{
         width: 80%;
     }
   }
   @media only screen and (max-width: 690px) {
-    table{
+    .table-prijzen{
         width: 100%;
     }
   }
-th, td {
+.table-prijzen th, .table-prijzen td {
     padding: 10px;
     text-align: left;
 }
 
-tr {
+.table-prijzen tr {
     border-bottom: 1px solid #ccc;
 }
 
-th:first-child{
+.table-prijzen th:first-child{
     width: 70%;
 }
 
-tr:nth-child(even) {
+.table-prijzen tr:nth-child(even) {
     background-color: #f2f2f2;
 }
